@@ -1,1 +1,1 @@
-#masukin ini
+#Scraper package for arstechica website.
