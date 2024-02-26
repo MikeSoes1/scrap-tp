@@ -1,1 +1,4 @@
 /reference
+/node_modules
+
+.env
