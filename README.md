@@ -1,4 +1,4 @@
-> Package is still in development. Wait for further updates.
+> Package to scrap arstechnica website. Contains header and title
 
 # Scraper Package for Arstechnica Website
 

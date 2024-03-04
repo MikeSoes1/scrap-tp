@@ -1,7 +1,7 @@
 {
   "name": "@mikesoes/scrap-tp",
-  "version": "1.0.0",
-  "description": "> Package is still in development. Wait for further updates.",
+  "version": "1.0.1",
+  "description": "> Package to scrap arstechnica website. Contains header and title.",
   "main": "index.js",
   "type": "module",
   "dependencies": {
@@ -39,9 +39,14 @@
     "type": "git",
     "url": "git+https://github.com/MikeSoes1/scrap-tp.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "scrapping",
+    "axios",
+    "web",
+    "news"
+  ],
+  "author": "MikeSoes1",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MikeSoes1/scrap-tp/issues"
   },
