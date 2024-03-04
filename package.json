@@ -2,7 +2,7 @@
   "name": "scrap-tp",
   "version": "1.0.0",
   "description": "",
-  "main": "arstechnica.js",
+  "main": "index.js",
   "type": "module",
   "dependencies": {
     "axios": "^1.6.7",
@@ -33,7 +33,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node arstechnica.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
