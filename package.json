@@ -1,6 +1,6 @@
 {
   "name": "@mikesoes/scrap-tp",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "> Package to scrap arstechnica website. Contains header and title.",
   "main": "index.js",
   "type": "module",
